@@ -1,6 +1,14 @@
 # Uber_Rides_Data_Analysis
 🚖 Uber Rides Data Analysis
 
+# 🚖 Uber Rides Data Analysis  
+
+![Uber Car](https://cdn.dribbble.com/users/1078347/screenshots/3163720/uber.gif)  
+
+![Uber App](https://i.pinimg.com/originals/15/1d/af/151daf4b04f8f0d0b17f2598c7389e0e.gif)  
+
+![Uber Logo](https://1000logos.net/wp-content/uploads/2021/04/Uber-logo.png)  
+
 📌 Project Overview
 
 This project is a data analysis case study on Uber rides. The goal is to understand travel patterns, ride categories, passenger behavior, and fare trends using real-world-like Uber dataset.
