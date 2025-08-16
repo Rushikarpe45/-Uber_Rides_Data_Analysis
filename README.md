@@ -49,7 +49,7 @@ Example:
 
 Clone this repository
 
-git clone https://github.com/your-username/Uber-Rides-Data-Analysis.git
+git clone [https://github.com/your-username/Uber-Rides-Data-Analysis.git](https://github.com/Rushikarpe45/-Uber_Rides_Data_Analysis)
 cd Uber-Rides-Data-Analysis
 
 
